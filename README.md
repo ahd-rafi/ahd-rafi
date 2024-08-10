@@ -1,66 +1,83 @@
-**Hi there 👋, I'm Ahmad Rafi**
+# Hi there 👋, I'm Ahmad Rafi
 
-**👨‍💻 About Me**  
-Highly motivated Data Scientist with a strong foundation in computer science and over 1 year of experience. Proficient in Python, Django, and data visualization tools like Tableau. Skilled in machine learning, TensorFlow, NLP, and data analysis with a passion for solving complex problems and driving impactful projects. I'm currently seeking a challenging role in a data-driven organization to leverage my technical skills and contribute to innovative solutions.
+![Profile Views](https://komarev.com/ghpvc/?username=ahmadrafi&style=flat-square)
 
-**📍 Location**  
-Mangalore, Karnataka, India
+## 👨‍💻 About Me
 
-**📧 Contact**  
-ahdrafi1486@gmail.com
+Motivated Data Engineer with over a year of experience in Python scripting, PySpark, SQL, and data processing. I specialize in developing and maintaining data pipelines, implementing data storage practices, and building stream-processing applications. Proficient in cloud data platforms, CI/CD pipelines, and data warehousing concepts, I excel at translating business requirements into technical solutions. Currently, I am seeking a role in a forward-thinking organization where I can leverage my technical skills and contribute to data-driven innovations.
 
-**💼 LinkedIn Profile**  
-[Ahmad Rafi on LinkedIn](www.linkedin.com/in/ahmad-rafi-6a59151a7)
+- 📍 Mangalore, Karnataka, India
+- 📧 [ahdrafi1486@gmail.com](mailto:ahdrafi1486@gmail.com)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ahmad-rafi-6a59151a7)
+- 🌐 [Personal Website](#)
 
-**🔧 Key Skills**  
-- **Programming:** Python, R, SQL  
-- **Data Analysis & Visualization:** Tableau, Pandas, Matplotlib, Seaborn  
-- **Machine Learning & Statistics:** TensorFlow, Keras, scikit-learn  
-- **Tools & Technologies:** Docker, Plumber API, Apache Spark  
-- **Others:** Data Cleaning, Predictive Modeling, NLP, Data Preprocessing, Dashboard Development
+## 🔧 Key Skills
 
-**📊 GitHub Stats**  
-- **Top Languages**  
-- **Repositories**  
-- **Contributions**
+### Programming:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
 
-**🚀 Professional Experience**  
-**Data Scientist**  
-*Centre for Integrative Omics Data Science (CIODS) | August 2023 – Present*  
-- Collaborated with stakeholders to identify data-driven business solutions.
-- Mined and analyzed large datasets, optimizing product development and marketing strategies.
-- Developed custom data models and algorithms, increasing prediction accuracy by 20%.
-- Utilized predictive modeling to enhance customer experiences and revenue generation.
-- Developed A/B testing frameworks and monitored outcomes, reducing errors by 30%.
+### Data Processing & Transformation:
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Spark Streaming](https://img.shields.io/badge/Spark%20Streaming-1C1E24?style=flat&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
-**Intern, Data Scientist**  
-*Centre for Integrative Omics Data Science (CIODS) | February 2023 – August 2023*  
-- Developed expertise in Tableau and created impactful visualizations.
-- Enhanced machine learning skills using scikit-learn and TensorFlow.
-- Gained practical experience with Apache Spark for large-scale data analysis.
+### Data Analysis & Visualization:
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0193D4?style=flat&logo=python&logoColor=white)
 
-**Machine Learning Intern**  
-*Knowledge Solutions India (Affiliation with Microsoft) | February 2021 - April 2021*  
-- Developed machine learning models for data analysis and prediction tasks.
-- Collaborated on research projects involving machine learning algorithms.
+### Cloud Platforms & Tools:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FCA121?style=flat&logo=gitlab&logoColor=white)
 
-**🎓 Education**  
+## 📊 GitHub Stats
+
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadrafi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrafi&layout=compact&theme=radical)
+
+## 🚀 Professional Experience
+
+### Data Scientist
+**Centre for Integrative Omics Data Science (CIODS)** | August 2023 – Present
+
+- Developed and implemented machine learning models for predictive analytics using Python and SQL.
+- Analyzed large datasets to extract meaningful insights and optimize business strategies.
+- Collaborated with cross-functional teams to translate business requirements into technical solutions.
+- Utilized PySpark for data processing and transformation, improving efficiency.
+- Developed and maintained CI/CD pipelines using GitLab for seamless model deployment.
+- Worked on cloud platforms for machine learning model deployment and management.
+
+### Data Science Intern
+**Centre for Integrative Omics Data Science (CIODS)** | February 2023 – August 2023
+
+- Created impactful visualizations using Tableau to convey complex data insights effectively.
+- Enhanced skills in machine learning and Python modules like scikit-learn and TensorFlow.
+- Gained practical experience with Apache Spark for large-scale data processing.
+
+## 🎓 Education
 **Bachelor's Degree in Computer Science and Engineering**  
-*Visvesvaraya Technological University, 2019-2023* | CGPA: 7.85
+Visvesvaraya Technological University, 2019-2023 | CGPA: 7.85
 
-**🏆 Certifications**  
-- Python Certification – IIT Bombay  
-- TensorFlow Certification - Google Cloud  
-- SQL (Advanced) - HackerRank  
-- Foundations of Data Science - Google  
-- Tableau Training - Simplilearn  
-- IBM Machine Learning Professional Certification - Ongoing
+## 🏆 Certifications
 
-**📚 Publications**  
-- "A global phosphosite-correlated network map of Thousand And One Kinase 1 (TAOK1)"  
-- "OBLIVIOUS: The Unseen Guide"
+- **Python Certification** – IIT Bombay
+- **TensorFlow Certification** - Google Cloud
+- **SQL (Advanced)** - HackerRank
+- **Foundations of Data Science** - Google
+- **Tableau Training** - Simplilearn
 
-**📬 Connect with Me**  
-- [LinkedIn](www.linkedin.com/in/ahmad-rafi-6a59151a7)  
-- [Email](mailto:ahdrafi1486@gmail.com)
+## 📚 Publications
 
+- Exploring the phospho-landscape of NEK6 kinase: systematic annotation of phosphosites and their implications as biomarkers in carcinogenesis ([link](https://link.springer.com/article/10.1007/s42485-024-00146-8))
+- A global phosphosite-correlated network map of Thousand And One Kinase 1 (TAOK1) ([link](https://www.sciencedirect.com/science/article/abs/pii/S1357272524000499?via%3Dihub))
+- OBLIVIOUS: The Unseen Guide ([link](https://researchjournalnmit.wordpress.com/oblivious-the-unseen-guide/))
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rafi-6a59151a7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahdrafi1486@gmail.com)
