@@ -4,7 +4,11 @@
 
 ## 👨‍💻 About Me
 
-Motivated Data Engineer with over a year of experience in Python scripting, PySpark, SQL, and data processing. I specialize in developing and maintaining data pipelines, implementing data storage practices, and building stream-processing applications. Proficient in cloud data platforms, CI/CD pipelines, and data warehousing concepts, I excel at translating business requirements into technical solutions. Currently, I am seeking a role in a forward-thinking organization where I can leverage my technical skills and contribute to data-driven innovations.
+Highly motivated Data Scientist with a strong foundation in computer science and proven 
+expertise in Python, Django, and data visualization. Skilled in machine learning, TensorFlow, 
+NLP and data analysis with a passion for tackling complex problems and driving impactful 
+projects. Seeking a challenging role in a data-driven organization to leverage my technical 
+skills and contribute to innovative solutions.
 
 - 📍 Mangalore, Karnataka, India
 - 📧 [ahdrafi1486@gmail.com](mailto:ahdrafi1486@gmail.com)
