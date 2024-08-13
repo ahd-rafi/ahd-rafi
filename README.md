@@ -4,11 +4,11 @@
 
 ## 👨‍💻 About Me
 
-Highly motivated Data Scientist with a strong foundation in computer science and proven 
-expertise in Python, Django, and data visualization. Skilled in machine learning, TensorFlow, 
-NLP and data analysis with a passion for tackling complex problems and driving impactful 
-projects. Seeking a challenging role in a data-driven organization to leverage my technical 
-skills and contribute to innovative solutions.
+Motivated and professional Data Scientist with over 1 year of experience. Proficient in Python, 
+Tableau, Hadoop, and other relevant tools. Skilled in analysing and interpreting complex data 
+sets to derive meaningful insights. Demonstrated ability to work independently and 
+collaboratively as part of a team. Strong problem-solving skills and a solid foundation in data 
+science principles. 
 
 - 📍 Mangalore, Karnataka, India
 - 📧 [ahdrafi1486@gmail.com](mailto:ahdrafi1486@gmail.com)
