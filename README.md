@@ -44,8 +44,9 @@ science principles.
 
 ## 📊 GitHub Stats
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadrafi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrafi&layout=compact&theme=radical)
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahd-rafi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahd-rafi&layout=compact&theme=radical)
+
 
 ## 🚀 Professional Experience
 
