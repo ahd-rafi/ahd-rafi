@@ -42,12 +42,6 @@ science principles.
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FCA121?style=flat&logo=gitlab&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahd-rafi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahd-rafi&layout=compact&theme=radical)
-
-
 ## 🚀 Professional Experience
 
 ### Data Scientist
