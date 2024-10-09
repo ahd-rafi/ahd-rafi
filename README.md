@@ -4,19 +4,14 @@
 
 ## 👨‍💻 About Me
 
-Motivated and professional Data Scientist with over 1 year of experience. Proficient in Python, 
-Tableau, Hadoop, and other relevant tools. Skilled in analysing and interpreting complex data 
-sets to derive meaningful insights. Demonstrated ability to work independently and 
-collaboratively as part of a team. Strong problem-solving skills and a solid foundation in data 
-science principles. 
+Driven Data Scientist with nearly 2 years of hands-on experience in machine learning, data analysis, and visualization. Proficient in Python, SQL, PySpark, and cloud technologies like AWS and Azure. I excel at transforming complex data into actionable insights, building scalable solutions, and improving decision-making processes. Skilled in working independently and as part of cross-functional teams to deliver results with measurable impact.
 
 - 📍 Mangalore, Karnataka, India
 - 📧 [ahdrafi1486@gmail.com](mailto:ahdrafi1486@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ahmad-rafi-6a59151a7)
-- 🌐 [Personal Website](#)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ahmadrafi07)
+- 🌐 [Portfolio]()
 
 ## 🔧 Key Skills
-
 
 ### Programming:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,16 +19,16 @@ science principles.
 
 ### Data Processing & Transformation:
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### Data Analysis & Visualization:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0193D4?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 
 ### Machine Learning & NLP:
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat&logo=xgboost&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-008080?style=flat&logo=nlp&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Cloud Platforms & Tools:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -41,25 +36,22 @@ science principles.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FCA121?style=flat&logo=gitlab&logoColor=white)
 
-
 ## 🚀 Professional Experience
 
 ### Data Scientist
-**Centre for Integrative Omics Data Science (CIODS)** | August 2023 – Present
+**Centre for Integrative Omics Data Science (CIODS)** | February 2023 – Present
 
-- Developed and implemented machine learning models for predictive analytics using Python and SQL.
-- Analyzed large datasets to extract meaningful insights and optimize business strategies.
-- Collaborated with cross-functional teams to translate business requirements into technical solutions.
-- Utilized PySpark for data processing and transformation, improving efficiency.
-- Developed and maintained CI/CD pipelines using GitLab for seamless model deployment.
-- Worked on cloud platforms for machine learning model deployment and management.
+- Built an XGBoost model to predict Type 2 Diabetes using metabolite profiles, improving accuracy by 50% over baseline models.
+- Developed scalable data pipelines for cancer research using NLP techniques, reducing data processing time by 40%.
+- Led cross-functional collaboration to integrate machine learning models into decision-making processes, boosting research efficiency by 50%.
+- Engineered an NLP-based chatbot using advanced machine learning and natural language understanding, enhancing user engagement by 25%.
 
-### Data Science Intern
-**Centre for Integrative Omics Data Science (CIODS)** | February 2023 – August 2023
+### Machine Learning Intern
+**Knowledge Solutions India (Affiliation with Microsoft)** | February 2021 – April 2021
 
-- Created impactful visualizations using Tableau to convey complex data insights effectively.
-- Enhanced skills in machine learning and Python modules like scikit-learn and TensorFlow.
-- Gained practical experience with Apache Spark for large-scale data processing.
+- Developed an insurance cost prediction model with a 15% improvement in accuracy using advanced machine learning techniques.
+- Utilized performance metrics and model validation techniques like cross-validation to improve model accuracy and reliability.
+- Applied hyperparameter optimization to fine-tune models, contributing to more reliable business operations.
 
 ## 🎓 Education
 **Bachelor's Degree in Computer Science and Engineering**  
@@ -75,11 +67,11 @@ Visvesvaraya Technological University, 2019-2023 | CGPA: 7.85
 
 ## 📚 Publications
 
-- Exploring the phospho-landscape of NEK6 kinase: systematic annotation of phosphosites and their implications as biomarkers in carcinogenesis ([link](https://link.springer.com/article/10.1007/s42485-024-00146-8))
 - A global phosphosite-correlated network map of Thousand And One Kinase 1 (TAOK1) ([link](https://www.sciencedirect.com/science/article/abs/pii/S1357272524000499?via%3Dihub))
+- Exploring the phospho-landscape of NEK6 kinase ([link](https://link.springer.com/article/10.1007/s42485-024-00146-8))
 - OBLIVIOUS: The Unseen Guide ([link](https://researchjournalnmit.wordpress.com/oblivious-the-unseen-guide/))
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rafi-6a59151a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadrafi07)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahdrafi1486@gmail.com)
