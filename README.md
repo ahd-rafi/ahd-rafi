@@ -9,7 +9,6 @@ Driven Data Scientist with nearly 2 years of hands-on experience in machine lear
 - 📍 Mangalore, Karnataka, India
 - 📧 [ahdrafi1486@gmail.com](mailto:ahdrafi1486@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/ahmadrafi07)
-- 🌐 [Portfolio]()
 
 ## 🔧 Key Skills
 
