@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmadrafi&style=flat-square)
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 Driven Data Scientist with nearly 2 years of hands-on experience in machine learning, data analysis, and visualization. Proficient in Python, SQL, PySpark, and cloud technologies like AWS and Azure. I excel at transforming complex data into actionable insights, building scalable solutions, and improving decision-making processes. Skilled in working independently and as part of cross-functional teams to deliver results with measurable impact.
 
